@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bs1gUTZFwPuBy5jcyLKT6YtOLtac7aaGH+BYj1+cwmQ=",
+  "Source": "aksapi",
+  "BasePath": "_content/aksapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
